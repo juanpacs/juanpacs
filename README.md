@@ -4,4 +4,4 @@
   width="800"/>
 </div>
 
-[![](https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=5&origin=search&related_id=145807)](https://www.linkedin.com/in/juan-pablo-cornejo-su%C3%A1rez-010745227/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-cornejo-su%C3%A1rez-010745227/)
